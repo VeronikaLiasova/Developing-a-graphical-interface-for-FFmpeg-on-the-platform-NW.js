@@ -1,0 +1,13 @@
+{
+    "name": "FFmpeg GUI",
+    "version": "1.0.0",
+    "main": "index.html",
+    "window": {
+        "frame": false,
+        "toolbar": false,
+        "resizable": false,
+        "width": 960,
+        "height": 500,
+        "position": "center"
+    }
+}
